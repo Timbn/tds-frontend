@@ -1,0 +1,151 @@
+{
+  "ZipCode": 95497,
+  "Generated": "2025-06-02 16:43:00",
+  "Project": "PGE_electric",
+  "Years": {
+    "2013": {
+      "Elec- Commercial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 11598658.0,
+        "TotalCustomers": 24966,
+        "Combined": 0.0
+      }
+    },
+    "2014": {
+      "Elec- Commercial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 14309912.0,
+        "TotalCustomers": 32246,
+        "Combined": 0.0
+      }
+    },
+    "2015": {
+      "Elec- Commercial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 9684185.0,
+        "TotalCustomers": 21688,
+        "Combined": 0.0
+      }
+    },
+    "2016": {
+      "Elec- Commercial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 10105936.0,
+        "TotalCustomers": 21865,
+        "Combined": 0.0
+      }
+    },
+    "2017": {
+      "Elec- Commercial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 9876250.0,
+        "TotalCustomers": 23184,
+        "Combined": 0.0
+      }
+    },
+    "2018": {
+      "Elec- Commercial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 8765703.0,
+        "TotalCustomers": 21263,
+        "Combined": 0.0
+      }
+    },
+    "2019": {
+      "Elec- Commercial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 8736325.0,
+        "TotalCustomers": 21301,
+        "Combined": 0.0
+      }
+    },
+    "2020": {
+      "Elec- Commercial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 9291680.0,
+        "TotalCustomers": 21358,
+        "Combined": 0.0
+      }
+    },
+    "2021": {
+      "Elec- Commercial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 10139342.0,
+        "TotalCustomers": 21420,
+        "Combined": 0.0
+      }
+    },
+    "2022": {
+      "Elec- Commercial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 9759397.0,
+        "TotalCustomers": 21560,
+        "Combined": 0.0
+      }
+    },
+    "2023": {
+      "Elec- Commercial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 9293536.0,
+        "TotalCustomers": 21673,
+        "Combined": 0.0
+      }
+    },
+    "2024": {
+      "Elec- Commercial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 9195330.0,
+        "TotalCustomers": 21733,
+        "Combined": 0.0
+      }
+    }
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "ZipCode": 95206,
+  "Generated": "2025-06-02 16:42:59",
+  "Project": "PGE_electric",
+  "Years": {
+    "2013": {
+      "Elec- Agricultural": {
+        "TotalkWh": 15408843.0,
+        "TotalCustomers": 3211,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 178519332.0,
+        "TotalCustomers": 12263,
+        "Combined": 0.0
+      },
+      "Elec- Industrial": {
+        "TotalkWh": 191884822.0,
+        "TotalCustomers": 179,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 148121522.0,
+        "TotalCustomers": 248457,
+        "Combined": 0.0
+      }
+    },
+    "2014": {
+      "Elec- Agricultural": {
+        "TotalkWh": 34964019.0,
+        "TotalCustomers": 8210,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 229758385.0,
+        "TotalCustomers": 15109,
+        "Combined": 0.0
+      },
+      "Elec- Industrial": {
+        "TotalkWh": 883510646.0,
+        "TotalCustomers": 820,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 176278423.0,
+        "TotalCustomers": 300477,
+        "Combined": 0.0
+      }
+    },
+    "2015": {
+      "Elec- Agricultural": {
+        "TotalkWh": 30957211.0,
+        "TotalCustomers": 7725,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 160771579.0,
+        "TotalCustomers": 10274,
+        "Combined": 0.0
+      },
+      "Elec- Industrial": {
+        "TotalkWh": 224127828.0,
+        "TotalCustomers": 225,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 120398705.0,
+        "TotalCustomers": 201587,
+        "Combined": 0.0
+      }
+    },
+    "2016": {
+      "Elec- Agricultural": {
+        "TotalkWh": 27923593.0,
+        "TotalCustomers": 5841,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 167425574.0,
+        "TotalCustomers": 10445,
+        "Combined": 0.0
+      },
+      "Elec- Industrial": {
+        "TotalkWh": 196858407.0,
+        "TotalCustomers": 180,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 118205345.0,
+        "TotalCustomers": 202207,
+        "Combined": 0.0
+      }
+    },
+    "2017": {
+      "Elec- Agricultural": {
+        "TotalkWh": 18714073.0,
+        "TotalCustomers": 3855,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 167737477.0,
+        "TotalCustomers": 11533,
+        "Combined": 0.0
+      },
+      "Elec- Industrial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 136800100.0,
+        "TotalCustomers": 220473,
+        "Combined": 0.0
+      }
+    },
+    "2018": {
+      "Elec- Agricultural": {
+        "TotalkWh": 14568584.0,
+        "TotalCustomers": 2340,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 158823473.0,
+        "TotalCustomers": 10795,
+        "Combined": 0.0
+      },
+      "Elec- Industrial": {
+        "TotalkWh": 134112286.0,
+        "TotalCustomers": 133,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 117687314.0,
+        "TotalCustomers": 204912,
+        "Combined": 0.0
+      }
+    },
+    "2019": {
+      "Elec- Agricultural": {
+        "TotalkWh": 20432829.0,
+        "TotalCustomers": 4033,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 164402297.0,
+        "TotalCustomers": 10849,
+        "Combined": 0.0
+      },
+      "Elec- Industrial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 119468440.0,
+        "TotalCustomers": 205849,
+        "Combined": 0.0
+      }
+    },
+    "2020": {
+      "Elec- Agricultural": {
+        "TotalkWh": 18893780.0,
+        "TotalCustomers": 2881,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 172191057.0,
+        "TotalCustomers": 10987,
+        "Combined": 0.0
+      },
+      "Elec- Industrial": {
+        "TotalkWh": 492338901.0,
+        "TotalCustomers": 515,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 135391294.0,
+        "TotalCustomers": 208600,
+        "Combined": 0.0
+      }
+    },
+    "2021": {
+      "Elec- Agricultural": {
+        "TotalkWh": 22688283.0,
+        "TotalCustomers": 3038,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 293131310.0,
+        "TotalCustomers": 11082,
+        "Combined": 0.0
+      },
+      "Elec- Industrial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 137369287.0,
+        "TotalCustomers": 211769,
+        "Combined": 0.0
+      }
+    },
+    "2022": {
+      "Elec- Agricultural": {
+        "TotalkWh": 28994068.0,
+        "TotalCustomers": 3034,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 329422921.0,
+        "TotalCustomers": 11069,
+        "Combined": 0.0
+      },
+      "Elec- Industrial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 135327811.0,
+        "TotalCustomers": 211722,
+        "Combined": 0.0
+      }
+    },
+    "2023": {
+      "Elec- Agricultural": {
+        "TotalkWh": 24656888.0,
+        "TotalCustomers": 3970,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 272008034.0,
+        "TotalCustomers": 9183,
+        "Combined": 0.0
+      },
+      "Elec- Industrial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 125064219.0,
+        "TotalCustomers": 211560,
+        "Combined": 0.0
+      }
+    },
+    "2024": {
+      "Elec- Agricultural": {
+        "TotalkWh": 20415457.0,
+        "TotalCustomers": 2284,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 247604206.0,
+        "TotalCustomers": 7307,
+        "Combined": 0.0
+      },
+      "Elec- Industrial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 129916725.0,
+        "TotalCustomers": 211755,
+        "Combined": 0.0
+      }
+    }
+  }
+}

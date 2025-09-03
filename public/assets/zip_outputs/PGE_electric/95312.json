@@ -1,0 +1,21 @@
+{
+  "ZipCode": 95312,
+  "Generated": "2025-06-02 16:42:59",
+  "Project": "PGE_electric",
+  "Years": {
+    "2019": {
+      "Elec- Residential": {
+        "TotalkWh": 123973.0,
+        "TotalCustomers": 201,
+        "Combined": 0.0
+      }
+    },
+    "2024": {
+      "Elec- Residential": {
+        "TotalkWh": 103462.0,
+        "TotalCustomers": 100,
+        "Combined": 0.0
+      }
+    }
+  }
+}

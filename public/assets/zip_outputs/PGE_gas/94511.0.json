@@ -1,0 +1,35 @@
+{
+  "ZipCode": 94511,
+  "Generated": "2025-06-02 16:51:01",
+  "Project": "PGE_gas",
+  "Years": {
+    "2016": {
+      "Gas- Residential": {
+        "TotalTHM": 4467434.0,
+        "TotalCustomers": 6253,
+        "Combined": 0.0
+      }
+    },
+    "2022": {
+      "Gas- Residential": {
+        "TotalTHM": 30681.0,
+        "TotalCustomers": 1005,
+        "Combined": 0.0
+      }
+    },
+    "2023": {
+      "Gas- Residential": {
+        "TotalTHM": 74048.0,
+        "TotalCustomers": 2204,
+        "Combined": 0.0
+      }
+    },
+    "2024": {
+      "Gas- Residential": {
+        "TotalTHM": 84781.0,
+        "TotalCustomers": 2880,
+        "Combined": 0.0
+      }
+    }
+  }
+}

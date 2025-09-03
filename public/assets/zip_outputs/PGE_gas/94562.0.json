@@ -1,0 +1,19 @@
+{
+  "ZipCode": 94562,
+  "Generated": "2025-06-02 16:51:01",
+  "Project": "PGE_gas",
+  "Years": {
+    "2016": {
+      "Gas- Agricultural": {
+        "TotalTHM": 175260.0,
+        "TotalCustomers": 66,
+        "Combined": 0.0
+      },
+      "Gas- Residential": {
+        "TotalTHM": 1225851.0,
+        "TotalCustomers": 752,
+        "Combined": 0.0
+      }
+    }
+  }
+}

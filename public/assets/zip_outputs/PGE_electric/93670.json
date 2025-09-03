@@ -1,0 +1,35 @@
+{
+  "ZipCode": 93670,
+  "Generated": "2025-06-02 16:42:58",
+  "Project": "PGE_electric",
+  "Years": {
+    "2015": {
+      "Elec- Agricultural": {
+        "TotalkWh": 562251.0,
+        "TotalCustomers": 106,
+        "Combined": 0.0
+      }
+    },
+    "2017": {
+      "Elec- Agricultural": {
+        "TotalkWh": 70283.0,
+        "TotalCustomers": 37,
+        "Combined": 0.0
+      }
+    },
+    "2023": {
+      "Elec- Agricultural": {
+        "TotalkWh": 98306.0,
+        "TotalCustomers": 33,
+        "Combined": 0.0
+      }
+    },
+    "2024": {
+      "Elec- Agricultural": {
+        "TotalkWh": 146425.0,
+        "TotalCustomers": 68,
+        "Combined": 0.0
+      }
+    }
+  }
+}

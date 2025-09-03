@@ -1,0 +1,151 @@
+{
+  "ZipCode": 94555,
+  "Generated": "2025-06-02 16:51:01",
+  "Project": "PGE_gas",
+  "Years": {
+    "2013": {
+      "Gas- Commercial": {
+        "TotalTHM": 80570.0,
+        "TotalCustomers": 181,
+        "Combined": 0.0
+      },
+      "Gas- Residential": {
+        "TotalTHM": 6176018.0,
+        "TotalCustomers": 163519,
+        "Combined": 0.0
+      }
+    },
+    "2014": {
+      "Gas- Commercial": {
+        "TotalTHM": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Gas- Residential": {
+        "TotalTHM": 5706574.0,
+        "TotalCustomers": 197965,
+        "Combined": 0.0
+      }
+    },
+    "2015": {
+      "Gas- Commercial": {
+        "TotalTHM": 50601.0,
+        "TotalCustomers": 98,
+        "Combined": 0.0
+      },
+      "Gas- Residential": {
+        "TotalTHM": 3750715.0,
+        "TotalCustomers": 132271,
+        "Combined": 0.0
+      }
+    },
+    "2016": {
+      "Gas- Commercial": {
+        "TotalTHM": 324043.0,
+        "TotalCustomers": 486,
+        "Combined": 0.0
+      },
+      "Gas- Residential": {
+        "TotalTHM": 3766431.0,
+        "TotalCustomers": 132770,
+        "Combined": 0.0
+      }
+    },
+    "2017": {
+      "Gas- Commercial": {
+        "TotalTHM": 695715.0,
+        "TotalCustomers": 1021,
+        "Combined": 0.0
+      },
+      "Gas- Residential": {
+        "TotalTHM": 4326912.0,
+        "TotalCustomers": 147155,
+        "Combined": 0.0
+      }
+    },
+    "2018": {
+      "Gas- Commercial": {
+        "TotalTHM": 450696.0,
+        "TotalCustomers": 627,
+        "Combined": 0.0
+      },
+      "Gas- Residential": {
+        "TotalTHM": 4225490.0,
+        "TotalCustomers": 138192,
+        "Combined": 0.0
+      }
+    },
+    "2019": {
+      "Gas- Commercial": {
+        "TotalTHM": 355794.0,
+        "TotalCustomers": 324,
+        "Combined": 0.0
+      },
+      "Gas- Residential": {
+        "TotalTHM": 4386077.0,
+        "TotalCustomers": 139139,
+        "Combined": 0.0
+      }
+    },
+    "2020": {
+      "Gas- Commercial": {
+        "TotalTHM": 56677.0,
+        "TotalCustomers": 107,
+        "Combined": 0.0
+      },
+      "Gas- Residential": {
+        "TotalTHM": 4501749.0,
+        "TotalCustomers": 138814,
+        "Combined": 0.0
+      }
+    },
+    "2021": {
+      "Gas- Commercial": {
+        "TotalTHM": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Gas- Residential": {
+        "TotalTHM": 4453458.0,
+        "TotalCustomers": 139089,
+        "Combined": 0.0
+      }
+    },
+    "2022": {
+      "Gas- Commercial": {
+        "TotalTHM": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Gas- Residential": {
+        "TotalTHM": 4383953.0,
+        "TotalCustomers": 139251,
+        "Combined": 0.0
+      }
+    },
+    "2023": {
+      "Gas- Commercial": {
+        "TotalTHM": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Gas- Residential": {
+        "TotalTHM": 4409828.0,
+        "TotalCustomers": 139179,
+        "Combined": 0.0
+      }
+    },
+    "2024": {
+      "Gas- Commercial": {
+        "TotalTHM": 423441.0,
+        "TotalCustomers": 524,
+        "Combined": 0.0
+      },
+      "Gas- Residential": {
+        "TotalTHM": 3854689.0,
+        "TotalCustomers": 139032,
+        "Combined": 0.0
+      }
+    }
+  }
+}

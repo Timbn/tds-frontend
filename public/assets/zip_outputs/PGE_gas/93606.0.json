@@ -1,0 +1,91 @@
+{
+  "ZipCode": 93606,
+  "Generated": "2025-06-02 16:51:00",
+  "Project": "PGE_gas",
+  "Years": {
+    "2013": {
+      "Gas- Residential": {
+        "TotalTHM": 138064.0,
+        "TotalCustomers": 3929,
+        "Combined": 0.0
+      }
+    },
+    "2014": {
+      "Gas- Residential": {
+        "TotalTHM": 128817.0,
+        "TotalCustomers": 4240,
+        "Combined": 0.0
+      }
+    },
+    "2015": {
+      "Gas- Residential": {
+        "TotalTHM": 95200.0,
+        "TotalCustomers": 3157,
+        "Combined": 0.0
+      }
+    },
+    "2016": {
+      "Gas- Residential": {
+        "TotalTHM": 1196979.0,
+        "TotalCustomers": 5049,
+        "Combined": 0.0
+      }
+    },
+    "2017": {
+      "Gas- Residential": {
+        "TotalTHM": 104972.0,
+        "TotalCustomers": 3614,
+        "Combined": 0.0
+      }
+    },
+    "2018": {
+      "Gas- Residential": {
+        "TotalTHM": 97658.0,
+        "TotalCustomers": 3349,
+        "Combined": 0.0
+      }
+    },
+    "2019": {
+      "Gas- Residential": {
+        "TotalTHM": 102861.0,
+        "TotalCustomers": 3354,
+        "Combined": 0.0
+      }
+    },
+    "2020": {
+      "Gas- Residential": {
+        "TotalTHM": 117526.0,
+        "TotalCustomers": 3697,
+        "Combined": 0.0
+      }
+    },
+    "2021": {
+      "Gas- Residential": {
+        "TotalTHM": 109209.0,
+        "TotalCustomers": 3775,
+        "Combined": 0.0
+      }
+    },
+    "2022": {
+      "Gas- Residential": {
+        "TotalTHM": 116254.0,
+        "TotalCustomers": 3792,
+        "Combined": 0.0
+      }
+    },
+    "2023": {
+      "Gas- Residential": {
+        "TotalTHM": 119357.0,
+        "TotalCustomers": 3779,
+        "Combined": 0.0
+      }
+    },
+    "2024": {
+      "Gas- Residential": {
+        "TotalTHM": 107276.0,
+        "TotalCustomers": 3752,
+        "Combined": 0.0
+      }
+    }
+  }
+}

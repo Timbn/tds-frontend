@@ -1,0 +1,176 @@
+{
+  "ZipCode": 95460,
+  "Generated": "2025-06-02 16:43:00",
+  "Project": "PGE_electric",
+  "Years": {
+    "2013": {
+      "Elec- Commercial": {
+        "TotalkWh": 233813.0,
+        "TotalCustomers": 267,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 9067062.0,
+        "TotalCustomers": 14258,
+        "Combined": 0.0
+      }
+    },
+    "2014": {
+      "Elec- Commercial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 11961214.0,
+        "TotalCustomers": 19943,
+        "Combined": 0.0
+      }
+    },
+    "2015": {
+      "Elec- Commercial": {
+        "TotalkWh": 3231441.0,
+        "TotalCustomers": 1421,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 7844870.0,
+        "TotalCustomers": 12937,
+        "Combined": 0.0
+      }
+    },
+    "2016": {
+      "Elec- Commercial": {
+        "TotalkWh": 8616691.0,
+        "TotalCustomers": 3640,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 9045336.0,
+        "TotalCustomers": 13603,
+        "Combined": 0.0
+      }
+    },
+    "2017": {
+      "Elec- Commercial": {
+        "TotalkWh": 8845471.0,
+        "TotalCustomers": 3840,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 10823020.0,
+        "TotalCustomers": 15666,
+        "Combined": 0.0
+      }
+    },
+    "2018": {
+      "Elec- Commercial": {
+        "TotalkWh": 7793313.0,
+        "TotalCustomers": 3389,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 10463457.0,
+        "TotalCustomers": 15341,
+        "Combined": 0.0
+      }
+    },
+    "2019": {
+      "Elec- Commercial": {
+        "TotalkWh": 8356150.0,
+        "TotalCustomers": 3500,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 9821672.0,
+        "TotalCustomers": 15430,
+        "Combined": 0.0
+      }
+    },
+    "2020": {
+      "Elec- Agricultural": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 7525405.0,
+        "TotalCustomers": 3549,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 10131153.0,
+        "TotalCustomers": 15525,
+        "Combined": 0.0
+      }
+    },
+    "2021": {
+      "Elec- Agricultural": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 7884805.0,
+        "TotalCustomers": 3472,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 10342611.0,
+        "TotalCustomers": 15523,
+        "Combined": 0.0
+      }
+    },
+    "2022": {
+      "Elec- Agricultural": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 6604058.0,
+        "TotalCustomers": 3170,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 9685134.0,
+        "TotalCustomers": 15524,
+        "Combined": 0.0
+      }
+    },
+    "2023": {
+      "Elec- Agricultural": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 7380117.0,
+        "TotalCustomers": 3308,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 9384958.0,
+        "TotalCustomers": 15618,
+        "Combined": 0.0
+      }
+    },
+    "2024": {
+      "Elec- Agricultural": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 7112658.0,
+        "TotalCustomers": 3239,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 9019648.0,
+        "TotalCustomers": 15654,
+        "Combined": 0.0
+      }
+    }
+  }
+}

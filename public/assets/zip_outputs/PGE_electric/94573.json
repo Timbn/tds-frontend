@@ -1,0 +1,176 @@
+{
+  "ZipCode": 94573,
+  "Generated": "2025-06-02 16:42:59",
+  "Project": "PGE_electric",
+  "Years": {
+    "2013": {
+      "Elec- Agricultural": {
+        "TotalkWh": 1551943.0,
+        "TotalCustomers": 737,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 2842900.0,
+        "TotalCustomers": 162,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 3085481.0,
+        "TotalCustomers": 2453,
+        "Combined": 0.0
+      }
+    },
+    "2014": {
+      "Elec- Agricultural": {
+        "TotalkWh": 2200150.0,
+        "TotalCustomers": 1226,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 4179100.0,
+        "TotalCustomers": 3080,
+        "Combined": 0.0
+      }
+    },
+    "2015": {
+      "Elec- Agricultural": {
+        "TotalkWh": 1546045.0,
+        "TotalCustomers": 852,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 2815932.0,
+        "TotalCustomers": 2046,
+        "Combined": 0.0
+      }
+    },
+    "2016": {
+      "Elec- Agricultural": {
+        "TotalkWh": 1268159.0,
+        "TotalCustomers": 642,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 2807380.0,
+        "TotalCustomers": 2058,
+        "Combined": 0.0
+      }
+    },
+    "2017": {
+      "Elec- Agricultural": {
+        "TotalkWh": 1776749.0,
+        "TotalCustomers": 858,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 3279276.0,
+        "TotalCustomers": 2215,
+        "Combined": 0.0
+      }
+    },
+    "2018": {
+      "Elec- Agricultural": {
+        "TotalkWh": 1721148.0,
+        "TotalCustomers": 734,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 947799.0,
+        "TotalCustomers": 64,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 2911300.0,
+        "TotalCustomers": 2036,
+        "Combined": 0.0
+      }
+    },
+    "2019": {
+      "Elec- Agricultural": {
+        "TotalkWh": 1873131.0,
+        "TotalCustomers": 889,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 2928862.0,
+        "TotalCustomers": 2024,
+        "Combined": 0.0
+      }
+    },
+    "2020": {
+      "Elec- Agricultural": {
+        "TotalkWh": 1806126.0,
+        "TotalCustomers": 658,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 791800.0,
+        "TotalCustomers": 61,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 3011722.0,
+        "TotalCustomers": 2015,
+        "Combined": 0.0
+      }
+    },
+    "2021": {
+      "Elec- Agricultural": {
+        "TotalkWh": 1933187.0,
+        "TotalCustomers": 730,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 2440645.0,
+        "TotalCustomers": 122,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 2977002.0,
+        "TotalCustomers": 1997,
+        "Combined": 0.0
+      }
+    },
+    "2022": {
+      "Elec- Agricultural": {
+        "TotalkWh": 1964539.0,
+        "TotalCustomers": 658,
+        "Combined": 0.0
+      },
+      "Elec- Commercial": {
+        "TotalkWh": 2212633.0,
+        "TotalCustomers": 122,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 2971797.0,
+        "TotalCustomers": 1935,
+        "Combined": 0.0
+      }
+    },
+    "2023": {
+      "Elec- Agricultural": {
+        "TotalkWh": 1616631.0,
+        "TotalCustomers": 654,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 2949925.0,
+        "TotalCustomers": 1929,
+        "Combined": 0.0
+      }
+    },
+    "2024": {
+      "Elec- Agricultural": {
+        "TotalkWh": 1558332.0,
+        "TotalCustomers": 508,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 2901957.0,
+        "TotalCustomers": 1916,
+        "Combined": 0.0
+      }
+    }
+  }
+}

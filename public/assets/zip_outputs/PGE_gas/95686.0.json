@@ -1,0 +1,101 @@
+{
+  "ZipCode": 95686,
+  "Generated": "2025-06-02 16:51:02",
+  "Project": "PGE_gas",
+  "Years": {
+    "2013": {
+      "Gas- Residential": {
+        "TotalTHM": 175653.0,
+        "TotalCustomers": 4414,
+        "Combined": 0.0
+      }
+    },
+    "2014": {
+      "Gas- Residential": {
+        "TotalTHM": 161740.0,
+        "TotalCustomers": 5255,
+        "Combined": 0.0
+      }
+    },
+    "2015": {
+      "Gas- Commercial": {
+        "TotalTHM": 1717.0,
+        "TotalCustomers": 18,
+        "Combined": 0.0
+      },
+      "Gas- Residential": {
+        "TotalTHM": 108832.0,
+        "TotalCustomers": 3533,
+        "Combined": 0.0
+      }
+    },
+    "2016": {
+      "Gas- Residential": {
+        "TotalTHM": 1649747.0,
+        "TotalCustomers": 5841,
+        "Combined": 0.0
+      }
+    },
+    "2017": {
+      "Gas- Commercial": {
+        "TotalTHM": 1571.0,
+        "TotalCustomers": 17,
+        "Combined": 0.0
+      },
+      "Gas- Residential": {
+        "TotalTHM": 115415.0,
+        "TotalCustomers": 3846,
+        "Combined": 0.0
+      }
+    },
+    "2018": {
+      "Gas- Residential": {
+        "TotalTHM": 108805.0,
+        "TotalCustomers": 3514,
+        "Combined": 0.0
+      }
+    },
+    "2019": {
+      "Gas- Residential": {
+        "TotalTHM": 112411.0,
+        "TotalCustomers": 3565,
+        "Combined": 0.0
+      }
+    },
+    "2020": {
+      "Gas- Residential": {
+        "TotalTHM": 122881.0,
+        "TotalCustomers": 3522,
+        "Combined": 0.0
+      }
+    },
+    "2021": {
+      "Gas- Residential": {
+        "TotalTHM": 114401.0,
+        "TotalCustomers": 3510,
+        "Combined": 0.0
+      }
+    },
+    "2022": {
+      "Gas- Residential": {
+        "TotalTHM": 120598.0,
+        "TotalCustomers": 3499,
+        "Combined": 0.0
+      }
+    },
+    "2023": {
+      "Gas- Residential": {
+        "TotalTHM": 116976.0,
+        "TotalCustomers": 3512,
+        "Combined": 0.0
+      }
+    },
+    "2024": {
+      "Gas- Residential": {
+        "TotalTHM": 126861.0,
+        "TotalCustomers": 3453,
+        "Combined": 0.0
+      }
+    }
+  }
+}

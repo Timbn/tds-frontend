@@ -1,0 +1,96 @@
+{
+  "ZipCode": 95224,
+  "Generated": "2025-06-02 16:42:59",
+  "Project": "PGE_electric",
+  "Years": {
+    "2013": {
+      "Elec- Commercial": {
+        "TotalkWh": 9559.0,
+        "TotalCustomers": 23,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 1996048.0,
+        "TotalCustomers": 2991,
+        "Combined": 0.0
+      }
+    },
+    "2014": {
+      "Elec- Residential": {
+        "TotalkWh": 2456226.0,
+        "TotalCustomers": 4003,
+        "Combined": 0.0
+      }
+    },
+    "2015": {
+      "Elec- Residential": {
+        "TotalkWh": 1668930.0,
+        "TotalCustomers": 2654,
+        "Combined": 0.0
+      }
+    },
+    "2016": {
+      "Elec- Residential": {
+        "TotalkWh": 1747087.0,
+        "TotalCustomers": 2655,
+        "Combined": 0.0
+      }
+    },
+    "2017": {
+      "Elec- Residential": {
+        "TotalkWh": 2040880.0,
+        "TotalCustomers": 2899,
+        "Combined": 0.0
+      }
+    },
+    "2018": {
+      "Elec- Residential": {
+        "TotalkWh": 1835231.0,
+        "TotalCustomers": 2730,
+        "Combined": 0.0
+      }
+    },
+    "2019": {
+      "Elec- Residential": {
+        "TotalkWh": 1778328.0,
+        "TotalCustomers": 2734,
+        "Combined": 0.0
+      }
+    },
+    "2020": {
+      "Elec- Residential": {
+        "TotalkWh": 1818584.0,
+        "TotalCustomers": 2723,
+        "Combined": 0.0
+      }
+    },
+    "2021": {
+      "Elec- Residential": {
+        "TotalkWh": 1867281.0,
+        "TotalCustomers": 2719,
+        "Combined": 0.0
+      }
+    },
+    "2022": {
+      "Elec- Residential": {
+        "TotalkWh": 1751350.0,
+        "TotalCustomers": 2724,
+        "Combined": 0.0
+      }
+    },
+    "2023": {
+      "Elec- Residential": {
+        "TotalkWh": 1714512.0,
+        "TotalCustomers": 2747,
+        "Combined": 0.0
+      }
+    },
+    "2024": {
+      "Elec- Residential": {
+        "TotalkWh": 1675082.0,
+        "TotalCustomers": 2760,
+        "Combined": 0.0
+      }
+    }
+  }
+}

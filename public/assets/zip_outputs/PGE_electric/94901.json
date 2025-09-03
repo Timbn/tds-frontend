@@ -1,0 +1,176 @@
+{
+  "ZipCode": 94901,
+  "Generated": "2025-06-02 16:42:59",
+  "Project": "PGE_electric",
+  "Years": {
+    "2013": {
+      "Elec- Commercial": {
+        "TotalkWh": 125942072.0,
+        "TotalCustomers": 27728,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 106041243.0,
+        "TotalCustomers": 214778,
+        "Combined": 0.0
+      }
+    },
+    "2014": {
+      "Elec- Commercial": {
+        "TotalkWh": 170543735.0,
+        "TotalCustomers": 34549,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 121548936.0,
+        "TotalCustomers": 262805,
+        "Combined": 0.0
+      }
+    },
+    "2015": {
+      "Elec- Commercial": {
+        "TotalkWh": 118786360.0,
+        "TotalCustomers": 23357,
+        "Combined": 0.0
+      },
+      "Elec- Industrial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 81042793.0,
+        "TotalCustomers": 176150,
+        "Combined": 0.0
+      }
+    },
+    "2016": {
+      "Elec- Commercial": {
+        "TotalkWh": 125000313.0,
+        "TotalCustomers": 23660,
+        "Combined": 0.0
+      },
+      "Elec- Industrial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 80477368.0,
+        "TotalCustomers": 177321,
+        "Combined": 0.0
+      }
+    },
+    "2017": {
+      "Elec- Commercial": {
+        "TotalkWh": 130662348.0,
+        "TotalCustomers": 25900,
+        "Combined": 0.0
+      },
+      "Elec- Industrial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 87090706.0,
+        "TotalCustomers": 192383,
+        "Combined": 0.0
+      }
+    },
+    "2018": {
+      "Elec- Commercial": {
+        "TotalkWh": 114574475.0,
+        "TotalCustomers": 24122,
+        "Combined": 0.0
+      },
+      "Elec- Industrial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 77943174.0,
+        "TotalCustomers": 178173,
+        "Combined": 0.0
+      }
+    },
+    "2019": {
+      "Elec- Commercial": {
+        "TotalkWh": 116620599.0,
+        "TotalCustomers": 23998,
+        "Combined": 0.0
+      },
+      "Elec- Industrial": {
+        "TotalkWh": 0.0,
+        "TotalCustomers": 0,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 78735967.0,
+        "TotalCustomers": 178249,
+        "Combined": 0.0
+      }
+    },
+    "2020": {
+      "Elec- Commercial": {
+        "TotalkWh": 101905004.0,
+        "TotalCustomers": 23664,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 82379087.0,
+        "TotalCustomers": 178126,
+        "Combined": 0.0
+      }
+    },
+    "2021": {
+      "Elec- Commercial": {
+        "TotalkWh": 95074003.0,
+        "TotalCustomers": 19548,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 80918479.0,
+        "TotalCustomers": 178133,
+        "Combined": 0.0
+      }
+    },
+    "2022": {
+      "Elec- Commercial": {
+        "TotalkWh": 99161054.0,
+        "TotalCustomers": 19295,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 81275354.0,
+        "TotalCustomers": 178839,
+        "Combined": 0.0
+      }
+    },
+    "2023": {
+      "Elec- Commercial": {
+        "TotalkWh": 124782828.0,
+        "TotalCustomers": 23627,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 81370475.0,
+        "TotalCustomers": 178870,
+        "Combined": 0.0
+      }
+    },
+    "2024": {
+      "Elec- Commercial": {
+        "TotalkWh": 111110321.0,
+        "TotalCustomers": 22625,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 81280989.0,
+        "TotalCustomers": 179909,
+        "Combined": 0.0
+      }
+    }
+  }
+}

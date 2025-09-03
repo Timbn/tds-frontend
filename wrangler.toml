@@ -1,0 +1,6 @@
+name = "tds-frontend"
+account_id = "5363a00e1a25df919cf1c4d2567ed45a"
+compatibility_date = "2025-09-03"
+
+[site]
+bucket = "./dist"

@@ -1,0 +1,91 @@
+{
+  "ZipCode": 95978,
+  "Generated": "2025-06-02 16:43:01",
+  "Project": "PGE_electric",
+  "Years": {
+    "2013": {
+      "Elec- Residential": {
+        "TotalkWh": 1312249.0,
+        "TotalCustomers": 2117,
+        "Combined": 0.0
+      }
+    },
+    "2014": {
+      "Elec- Residential": {
+        "TotalkWh": 1506605.0,
+        "TotalCustomers": 2506,
+        "Combined": 0.0
+      }
+    },
+    "2015": {
+      "Elec- Residential": {
+        "TotalkWh": 994540.0,
+        "TotalCustomers": 1691,
+        "Combined": 0.0
+      }
+    },
+    "2016": {
+      "Elec- Residential": {
+        "TotalkWh": 994263.0,
+        "TotalCustomers": 1647,
+        "Combined": 0.0
+      }
+    },
+    "2017": {
+      "Elec- Residential": {
+        "TotalkWh": 1063687.0,
+        "TotalCustomers": 1812,
+        "Combined": 0.0
+      }
+    },
+    "2018": {
+      "Elec- Residential": {
+        "TotalkWh": 933475.0,
+        "TotalCustomers": 1662,
+        "Combined": 0.0
+      }
+    },
+    "2019": {
+      "Elec- Residential": {
+        "TotalkWh": 989371.0,
+        "TotalCustomers": 1675,
+        "Combined": 0.0
+      }
+    },
+    "2020": {
+      "Elec- Residential": {
+        "TotalkWh": 1001896.0,
+        "TotalCustomers": 1677,
+        "Combined": 0.0
+      }
+    },
+    "2021": {
+      "Elec- Residential": {
+        "TotalkWh": 983130.0,
+        "TotalCustomers": 1645,
+        "Combined": 0.0
+      }
+    },
+    "2022": {
+      "Elec- Residential": {
+        "TotalkWh": 986156.0,
+        "TotalCustomers": 1626,
+        "Combined": 0.0
+      }
+    },
+    "2023": {
+      "Elec- Residential": {
+        "TotalkWh": 897166.0,
+        "TotalCustomers": 1618,
+        "Combined": 0.0
+      }
+    },
+    "2024": {
+      "Elec- Residential": {
+        "TotalkWh": 868449.0,
+        "TotalCustomers": 1571,
+        "Combined": 0.0
+      }
+    }
+  }
+}

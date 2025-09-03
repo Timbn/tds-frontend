@@ -1,0 +1,101 @@
+{
+  "ZipCode": 94511,
+  "Generated": "2025-06-02 16:42:58",
+  "Project": "PGE_electric",
+  "Years": {
+    "2013": {
+      "Elec- Commercial": {
+        "TotalkWh": 3787723.0,
+        "TotalCustomers": 1357,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 11264543.0,
+        "TotalCustomers": 15388,
+        "Combined": 0.0
+      }
+    },
+    "2014": {
+      "Elec- Commercial": {
+        "TotalkWh": 1568163.0,
+        "TotalCustomers": 531,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 12722423.0,
+        "TotalCustomers": 18546,
+        "Combined": 0.0
+      }
+    },
+    "2015": {
+      "Elec- Residential": {
+        "TotalkWh": 8524287.0,
+        "TotalCustomers": 12409,
+        "Combined": 0.0
+      }
+    },
+    "2016": {
+      "Elec- Residential": {
+        "TotalkWh": 8553580.0,
+        "TotalCustomers": 12472,
+        "Combined": 0.0
+      }
+    },
+    "2017": {
+      "Elec- Residential": {
+        "TotalkWh": 9936966.0,
+        "TotalCustomers": 13496,
+        "Combined": 0.0
+      }
+    },
+    "2018": {
+      "Elec- Residential": {
+        "TotalkWh": 8772581.0,
+        "TotalCustomers": 12495,
+        "Combined": 0.0
+      }
+    },
+    "2019": {
+      "Elec- Residential": {
+        "TotalkWh": 8882376.0,
+        "TotalCustomers": 12410,
+        "Combined": 0.0
+      }
+    },
+    "2020": {
+      "Elec- Residential": {
+        "TotalkWh": 9555558.0,
+        "TotalCustomers": 12569,
+        "Combined": 0.0
+      }
+    },
+    "2021": {
+      "Elec- Residential": {
+        "TotalkWh": 9692789.0,
+        "TotalCustomers": 12935,
+        "Combined": 0.0
+      }
+    },
+    "2022": {
+      "Elec- Residential": {
+        "TotalkWh": 9880611.0,
+        "TotalCustomers": 13698,
+        "Combined": 0.0
+      }
+    },
+    "2023": {
+      "Elec- Residential": {
+        "TotalkWh": 9711582.0,
+        "TotalCustomers": 14587,
+        "Combined": 0.0
+      }
+    },
+    "2024": {
+      "Elec- Residential": {
+        "TotalkWh": 9976211.0,
+        "TotalCustomers": 15133,
+        "Combined": 0.0
+      }
+    }
+  }
+}

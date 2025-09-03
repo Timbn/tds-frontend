@@ -1,0 +1,14 @@
+{
+  "ZipCode": 95571,
+  "Generated": "2025-06-02 16:51:02",
+  "Project": "PGE_gas",
+  "Years": {
+    "2016": {
+      "Gas- Residential": {
+        "TotalTHM": 977482.0,
+        "TotalCustomers": 743,
+        "Combined": 0.0
+      }
+    }
+  }
+}

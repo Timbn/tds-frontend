@@ -1,0 +1,96 @@
+{
+  "ZipCode": 95697,
+  "Generated": "2025-06-02 16:43:00",
+  "Project": "PGE_electric",
+  "Years": {
+    "2013": {
+      "Elec- Residential": {
+        "TotalkWh": 1363725.0,
+        "TotalCustomers": 2442,
+        "Combined": 0.0
+      }
+    },
+    "2014": {
+      "Elec- Residential": {
+        "TotalkWh": 1622345.0,
+        "TotalCustomers": 2934,
+        "Combined": 0.0
+      }
+    },
+    "2015": {
+      "Elec- Residential": {
+        "TotalkWh": 1123517.0,
+        "TotalCustomers": 1955,
+        "Combined": 0.0
+      }
+    },
+    "2016": {
+      "Elec- Residential": {
+        "TotalkWh": 1105786.0,
+        "TotalCustomers": 1947,
+        "Combined": 0.0
+      }
+    },
+    "2017": {
+      "Elec- Residential": {
+        "TotalkWh": 1247667.0,
+        "TotalCustomers": 2104,
+        "Combined": 0.0
+      }
+    },
+    "2018": {
+      "Elec- Residential": {
+        "TotalkWh": 1073748.0,
+        "TotalCustomers": 1945,
+        "Combined": 0.0
+      }
+    },
+    "2019": {
+      "Elec- Residential": {
+        "TotalkWh": 1019036.0,
+        "TotalCustomers": 1919,
+        "Combined": 0.0
+      }
+    },
+    "2020": {
+      "Elec- Residential": {
+        "TotalkWh": 1112593.0,
+        "TotalCustomers": 1894,
+        "Combined": 0.0
+      }
+    },
+    "2021": {
+      "Elec- Residential": {
+        "TotalkWh": 1118317.0,
+        "TotalCustomers": 1884,
+        "Combined": 0.0
+      }
+    },
+    "2022": {
+      "Elec- Residential": {
+        "TotalkWh": 1107093.0,
+        "TotalCustomers": 1875,
+        "Combined": 0.0
+      }
+    },
+    "2023": {
+      "Elec- Residential": {
+        "TotalkWh": 1036737.0,
+        "TotalCustomers": 1837,
+        "Combined": 0.0
+      }
+    },
+    "2024": {
+      "Elec- Agricultural": {
+        "TotalkWh": 333135.0,
+        "TotalCustomers": 20,
+        "Combined": 0.0
+      },
+      "Elec- Residential": {
+        "TotalkWh": 1102677.0,
+        "TotalCustomers": 1843,
+        "Combined": 0.0
+      }
+    }
+  }
+}
